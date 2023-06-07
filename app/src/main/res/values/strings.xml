@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Hening</string>
+    <string name="title_menu_1">Understand the Meaning</string>
+    <string name="title_menu_2">Hening</string>
+    <string name="title_menu_3">ps-409</string>
+    <string name="title_button">Go</string>
+    <string name="content_desc">logoMenu2</string>
+    <string name="logo_menu_1">logo menu 1</string>
+    <string name="image_view">image View</string>
+    <string name="homepage">Home</string>
+    <string name="profilpage">Profil</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="learn">Learn sign language</string>
+    <string name="welcome">Welcome Hear! \n Enjoy Our App</string>
+    <string name="signup">Sign Up</string>
+
+    //onboarding
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+
+    <string name="password_error">Password should have at least 8 characters</string>
+    <string name="password_blank">Password Invalid</string>
+    <string name="name_blank">Name is Empty</string>
+    <string name="email_blank">Email Invalid</string>
+    <string name="singin_google">Sign In with google</string>
+    <string name="hint_pw">Your Password</string>
+    <string name="hint_email">Your Email</string>
+    <string name="name">Name</string>
+
+    <string name="register">Register</string>
+    <string name="haveaccount">Have an Account?</string>
+
+<!--    fragment home page-->
+    <string name="subtitle">Mari eksplorasi dunia tuli bersama hening!</string>
+    <string name="information">Informasi</string>
+    <string name="main_features">Translate Sign Language</string>
+    <string name="article">Article</string>
+    <string name="games">Games</string>
+    <string name="scan">Translate Now!</string>
+    <string name="description">Description</string>
+    <string name="seedetails">See Details</string>
+    <string name="course">Course</string>
+
+
+<!--    profil-->
+    <string name="name_profil">Name </string>
+    <string name="phonenumber">Phone</string>
+    <string name="email_profil">Email </string>
+    <string name="about">About Us</string>
+    <string name="term">Term and Condition</string>
+    <string name="help">Help</string>
+    <string name="lisence">License</string>
+    <string name="profil_menu">Profile</string>
+    <string name="change">Change Photo</string>
+    <string name="logout">Log Out</string>
+
+<!--    artikel-->
+    <string name="send_success">Berhasil terkirim</string>
+    <string name="send_error">Gagal terkirim</string>
+</resources>

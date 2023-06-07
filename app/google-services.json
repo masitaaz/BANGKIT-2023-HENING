@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869395256630",
+    "firebase_url": "https://capstonebangkit-74760-default-rtdb.firebaseio.com",
+    "project_id": "capstonebangkit-74760",
+    "storage_bucket": "capstonebangkit-74760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869395256630:android:a4e4778be0c1b2c7820f97",
+        "android_client_info": {
+          "package_name": "com.bangkit.capstonebangkitv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869395256630-kt0fif1ddg1ob4sl6l6p3rnqd5vrs2vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangkit.capstonebangkitv1",
+            "certificate_hash": "3e15562f9866dfd74dbabeb542fa9919d01d6930"
+          }
+        },
+        {
+          "client_id": "869395256630-cb5j7poir221bl9d0s4r6v9b2sl4nt7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzGNxH1KsqFuGKFL1QoM9cWevQ39Aq0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869395256630-cb5j7poir221bl9d0s4r6v9b2sl4nt7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
