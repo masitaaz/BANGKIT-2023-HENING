@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "id": "111",
+      "Title": "Existency of Sign Language",
+      "Provide": "Hening Team",
+      "Image": "https://storage.googleapis.com/bucket-article/image2.jpg",
+      "Content": "https://storage.googleapis.com/bucket-article/Existency%20of%20Sign%20Language.txt",
+      "Source": "Amin & Pribadi, (2022)"
+    },
+
+    {
+      "id": "222",
+      "Title": "History of Sign Language",
+      "Provide": "Hening Team",
+      "Image": "https://storage.googleapis.com/bucket-article/image1.jpg",
+      "Content": "https://storage.googleapis.com/bucket-article/History%20of%20Sign%20Language.txt",
+      "Source": "Robert J. Ruben, (2005)"
+    },
+
+    {
+      "id": "333",
+      "Title": "History of Sign Language",
+      "Provide": "Hening Team",
+      "Image": "https://storage.googleapis.com/bucket-article/image3.jpg",
+      "Content": "https://storage.googleapis.com/bucket-article/Difference%20between%20SIBI%20%26%20BISINDO.txt",
+      "Source": "Nugraheni, et al. (2021)"
+    }
+  ]
+}
